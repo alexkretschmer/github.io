@@ -7,9 +7,5 @@ Beschreibung Lieblingscharakter dies ist ein Test dies ist ein Test.
 Beschreibung Lieblingscharakter dies ist ein Test dies ist ein Test.
 Beschreibung Lieblingscharakter dies ist ein Test dies ist ein Test.
 
-## Stichpunkte
 
-* eins
-* zwei
-* drei
-* vier
+> Was Nicht Passt wird passend gemacht!
